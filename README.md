@@ -29,3 +29,15 @@ mostly vegetarian. These kind of analysis can be done using the data, by studyin
 The data is accurate to that available on the zomato website until 15 March 2019.
 
 The data was scraped from Zomato in two phase. After going through the structure of the website I found that for each neighborhood there are 6-7 category of restaurants viz. Buffet, Cafes, Delivery, Desserts, Dine-out, Drinks & nightlife, Pubs and bars.
+
+Overview -
+![image](https://github.com/Raghav14Sharma/ZomatoDashboardPowerBI/assets/75088936/3c976e51-935f-43e7-a91d-ea5efacb1357)
+Location Dashboard - 
+![image](https://github.com/Raghav14Sharma/ZomatoDashboardPowerBI/assets/75088936/7c7c81bc-54b5-47fe-a5d2-d137a6505d32)
+Ratings Dashboard - 
+![image](https://github.com/Raghav14Sharma/ZomatoDashboardPowerBI/assets/75088936/994fcf37-a52c-44f2-a790-2e8c7a0618f6)
+Restaurant type Dashboard - 
+![image](https://github.com/Raghav14Sharma/ZomatoDashboardPowerBI/assets/75088936/b7c41213-7c00-4874-8a4e-c7e22cf66bbe)
+Pricing Dashboard - 
+![image](https://github.com/Raghav14Sharma/ZomatoDashboardPowerBI/assets/75088936/d5ee05f1-8505-4bab-9f0d-73f484d89519)
+
